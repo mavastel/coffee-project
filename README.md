@@ -1,16 +1,46 @@
-<h1> Coffee Project </h1>
+<h1>☕ Coffee Project </h1>
 
 <p>
-    Bu proje, estetik detaylarıyla öne çıkan zarif bir kahve dükkanı web sitesi tasarımıdır. Modern görüntüsü ve şık dizaynıyla kullanıcıların dikkatini çeken, göze hitap eden bir arayüz sunar.
+    A modern and responsive coffee shop website designed to showcase menu items, brand identity, and customer experience.
+
+    This project focuses on clean UI, smooth user interaction, and full responsiveness across devices.
 </p>
 
 <hr>
 
-<h2>Projenin Özellikleri</h2>
+<h2>🌐 Website View</h2>
+
+<p align="center">
+  <img src="./assets/gif/coffee-web.gif" alt="Coffee Shop Website View" width="900">
+</p>
+
+<hr>
+
+<h2>📱 Responsive View</h2>
+
+<p align="center">
+  <img src="./assets/gif/coffee-responsive.gif" alt="Coffee Shop Responsive View" width="900">
+</p>
+
+<hr>
+
+<h2>🚀 Features</h2>
 
 <ul>
-     <li>Açıklayıcı HTML Kodlaması</li>
-     <li>CSS Özellikleri Kullanımı</li>
-     <li>JavaScript Menüye Sahiptir</li>
-     <li>Responsive Tasarım ile Mobil Cihazlara Uyum Sağlar</li>
+<li>- Modern and clean coffee shop design</li>
+<li>- Fully responsive layout (mobile, tablet, desktop)</li>
+<li>- Smooth scrolling experience</li>
+<li>- Well-structured sections (Hero, Menu, About, Contact)</li>
+<li>- User-friendly UI/UX</li>
 </ul>
+
+<hr>
+
+<h2>🛠️ Technologies Used</h2>
+
+<ul>
+<li>- HTML5</li>
+<li>- CSS3 (Flexbox & Media Queries)</li>
+<li>- JavaScript</li>
+</ul>
+
