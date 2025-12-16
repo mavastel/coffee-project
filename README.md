@@ -3,7 +3,7 @@
 <p>
     A modern and responsive coffee shop website designed to showcase menu items, brand identity, and customer experience.
 
-    This project focuses on clean UI, smooth user interaction, and full responsiveness across devices.
+This project focuses on clean UI, smooth user interaction, and full responsiveness across devices.
 </p>
 
 <hr>
